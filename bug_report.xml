@@ -1,0 +1,4 @@
+<title>Button is overlaping by header menu</title>
+<STR>1.Open website.2.Change window size</>
+<expectedResult>Botton is visible and clickable</expectedResult>
+<actualResult>bottoon is unvisible and it is unable to click<actualResult>
